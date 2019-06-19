@@ -25,3 +25,7 @@ end
 def using_concat(array1, array2)
   array1.concat[array2(2)]
 end 
+
+def using_delete(array, integer)
+  array.delete(integer)
+end
