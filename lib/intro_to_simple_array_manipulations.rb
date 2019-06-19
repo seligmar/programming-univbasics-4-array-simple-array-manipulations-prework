@@ -17,7 +17,12 @@ end
 def using_shift(array)
   first = array.unshift
   return first 
-  
+end 
+
+def shift_with_args(array)
+end 
+
+def using_concat(array1, array2)
   
   
   
