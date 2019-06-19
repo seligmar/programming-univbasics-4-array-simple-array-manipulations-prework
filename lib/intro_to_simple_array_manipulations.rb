@@ -17,4 +17,9 @@ end
 def using_shift(array)
   first = array.unshift
   return first 
+  
+  
+  
+  
+  
 end
